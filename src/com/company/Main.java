@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("Text for the first one branch");
+        System.out.println("Text for the secondone branch");
     }
 }
